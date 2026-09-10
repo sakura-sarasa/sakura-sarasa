@@ -57,7 +57,7 @@
 
 <!-- ============ Snake ============ -->
 <div align="center">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/yuki4266/yuki4266/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sakura-suki/sakura-suki/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- ============ Footer (a cat lives here) ============ -->
@@ -67,6 +67,6 @@
     <img src="garden-footer.svg" width="900" alt="garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuki4266&label=Profile%20views&color=F4795B&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sakura-suki&label=Profile%20views&color=F4795B&style=flat)
 
 </div>
